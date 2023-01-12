@@ -1,6 +1,6 @@
 # haiku-experimental
 
-Miscellaneous software for the [Haiku](https://haiku-os.org/) operating system (GitHub page [here](https://github.com/haiku/haiku)).
+Miscellaneous software for the [Haiku](https://haiku-os.org/) operating system (GitHub page [here](https://github.com/haiku/haiku), community forum [here](https://discuss.haiku-os.org/)).
 
 More information to be added here soon - stay tuned! :)
 
